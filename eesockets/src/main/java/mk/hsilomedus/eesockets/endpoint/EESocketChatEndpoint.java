@@ -1,5 +1,5 @@
 
-package mk.hsilomedus.eesockets.servlet;
+package mk.hsilomedus.eesockets.endpoint;
 
 import java.io.IOException;
 import java.util.HashSet;
